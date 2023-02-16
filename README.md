@@ -1,6 +1,6 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-### Hey!
+### Hey! bofff
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
