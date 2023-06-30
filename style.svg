@@ -14,7 +14,7 @@
           }
           * {
             font-family: consolas;
-            color: #ffffff;
+            color: #c523de;
             font-size: 20;
             user-select: none;
             letter-spacing: 2px;
@@ -43,7 +43,7 @@
           }
         </style>
         <div class="container">
-          <h2 class="title">Hello There <i class="nf nf-fa-heart"></i> <i class="nf nf-custom-vim"></i> </h2>
+          <h2 class="title">Hello There </h2>
           <p class="class-1">I'm niihaad25, a Student, I like the ethical hacking, I like linux os. </p>
           <span class="class-span-1">I'm learning in hack4u.io/</span>
           <span class="class-span-2"> ~ niihaad25~ </span>
